@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- Recent commits/PRs/issues will auto-populate here once the activity.yml workflow runs -->
+1. 🎉 Merged PR [#1](https://github.com/Ombryal/Ombryal/pull/1) in [Ombryal/Ombryal](https://github.com/Ombryal/Ombryal)
 <!--END_SECTION:activity-->
 
 ---
