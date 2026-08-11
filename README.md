@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Spyou/Zangetsu/pull/14) in [Spyou/Zangetsu](https://github.com/Spyou/Zangetsu)
+1. 🎉 Merged PR [#2](https://github.com/Ombryal/Discord-Moderation-Bot/pull/2) in [Ombryal/Discord-Moderation-Bot](https://github.com/Ombryal/Discord-Moderation-Bot)
 <!--END_SECTION:activity-->
 
 ---
