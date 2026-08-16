@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Ombryal/Extension-status/pull/4) in [Ombryal/Extension-status](https://github.com/Ombryal/Extension-status)
+1. 🎉 Merged PR [#1](https://github.com/Ombryal/Zangetsu/pull/1) in [Ombryal/Zangetsu](https://github.com/Ombryal/Zangetsu)
 <!--END_SECTION:activity-->
 
 ---
