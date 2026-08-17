@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Ombryal/Zangetsu/pull/2) in [Ombryal/Zangetsu](https://github.com/Ombryal/Zangetsu)
+1. 🎉 Merged PR [#3](https://github.com/Ombryal/Zangetsu/pull/3) in [Ombryal/Zangetsu](https://github.com/Ombryal/Zangetsu)
 <!--END_SECTION:activity-->
 
 ---
