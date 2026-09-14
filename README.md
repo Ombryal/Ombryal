@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ombryal/Discord_Bot/pull/1) in [Ombryal/Discord_Bot](https://github.com/Ombryal/Discord_Bot)
+1. 🎉 Merged PR [#1](https://github.com/Ombryal/Bot-Dashboard/pull/1) in [Ombryal/Bot-Dashboard](https://github.com/Ombryal/Bot-Dashboard)
 <!--END_SECTION:activity-->
 
 ---
