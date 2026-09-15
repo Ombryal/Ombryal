@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Ombryal/WebForge/pull/9) in [Ombryal/WebForge](https://github.com/Ombryal/WebForge)
+1. 🎉 Merged PR [#10](https://github.com/Ombryal/WebForge/pull/10) in [Ombryal/WebForge](https://github.com/Ombryal/WebForge)
 <!--END_SECTION:activity-->
 
 ---
