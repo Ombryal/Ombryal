@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Ombryal/GameForge/pull/2) in [Ombryal/GameForge](https://github.com/Ombryal/GameForge)
+1. 🎉 Merged PR [#7](https://github.com/Ombryal/GameForge/pull/7) in [Ombryal/GameForge](https://github.com/Ombryal/GameForge)
 <!--END_SECTION:activity-->
 
 ---
