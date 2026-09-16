@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Ombryal/GameForge/pull/7) in [Ombryal/GameForge](https://github.com/Ombryal/GameForge)
+1. 🎉 Merged PR [#1](https://github.com/Ombryal/Dantotsu/pull/1) in [Ombryal/Dantotsu](https://github.com/Ombryal/Dantotsu)
 <!--END_SECTION:activity-->
 
 ---
