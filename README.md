@@ -71,7 +71,7 @@
 ### 📝 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ombryal/Dantotsu/pull/1) in [Ombryal/Dantotsu](https://github.com/Ombryal/Dantotsu)
+1. 🎉 Merged PR [#2](https://github.com/Ombryal/Dantotsu/pull/2) in [Ombryal/Dantotsu](https://github.com/Ombryal/Dantotsu)
 <!--END_SECTION:activity-->
 
 ---
